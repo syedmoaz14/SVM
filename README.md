@@ -59,17 +59,3 @@ The notebook loads the Titanic dataset directly from a URL — no download neede
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
 
----
-
-## Part of My AI Engineer Roadmap
-
-- ✅ Python & Pandas
-- ✅ Data Preprocessing & Feature Engineering
-- ✅ Linear Regression
-- ✅ Logistic Regression
-- ✅ Support Vector Machines ← you are here
-- ⬜ Decision Trees & Random Forest
-- ⬜ Gradient Boosting
-- ⬜ Deep Learning
-- ⬜ NLP & Generative AI
-- ⬜ AI Engineering & MLOps
